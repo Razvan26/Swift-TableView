@@ -1,7 +1,3 @@
-//
-//  TableViewController.swift
-//  Important
-//
 //  Created by Razvan26 
 //  Copyright © 2018 Razvan26. All rights reserved.
 //
